@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elepnt.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-10-28T17:38:38.181Z</updated>
+    <title>Elephant</title>
+    <updated>2019-10-28T17:41:11.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elepnt.github.io"/>
     <link rel="self" href="https://elepnt.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>知行合一</subtitle>
     <logo>https://elepnt.github.io/images/avatar.png</logo>
     <icon>https://elepnt.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Elephant</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://elepnt.github.io/post/hello-gridea</id>
